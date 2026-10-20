@@ -1,0 +1,18 @@
+resource/*
+!resource/series.txt
+.RData
+.Rhistory
+monkeypox.Rproj
+.Rproj.user
+.idea
+
+# Previous (superseded) analysis run
+output/run0/
+# Preprocessed data of series excluded from the meta-analysis
+output/exp_fixed/GSE11234_*
+output/exp_fixed/GSE22121_*
+output/exp_fixed/GSE24943_*
+# Manuscript drafts, reviewer correspondence and local tooling
+paper/
+graphify-out/
+scripts/publication/

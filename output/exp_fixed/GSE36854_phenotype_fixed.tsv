@@ -1,0 +1,5 @@
+samples	title	geo_accession	characteristics_ch1.1	state
+GSM903055	NK	GSM903055	inoculum: non-infected	control
+GSM903058	MPXV	GSM903058	inoculum: monkeypox virus strain MSF#6	MP
+GSM903059	NK_2	GSM903059	inoculum: non-infected	control
+GSM903062	MPXV_2	GSM903062	inoculum: monkeypox virus strain MSF#6	MP

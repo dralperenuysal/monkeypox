@@ -1,0 +1,53 @@
+samples	title	geo_accession	characteristics_ch2.1	state
+GSM593811	Mock 4hr in vitro monocyte pox timecourse	GSM593811	infection: Mock infection	control
+GSM593812	Mock 1.5hr in vitro monocyte pox timecourse	GSM593812	infection: Mock infection	control
+GSM593813	MPX 12hr in vitro monocyte pox timecourse	GSM593813	infection: Monkeypox Virus	MP
+GSM593816	MPX 8 hr Mf 7.29	GSM593816	infection: Monkeypox Virus	MP
+GSM593819	MPX 2hr in vitro monocyte pox timecourse	GSM593819	infection: Monkeypox Virus	MP
+GSM593820	MPX 12 hr FibroS100	GSM593820	infection: Monkeypox Virus	MP
+GSM593821	MPX 4 hr Mf 7.29	GSM593821	infection: Monkeypox Virus	MP
+GSM593828	Mock 2hr in vitro monocyte pox timecourse	GSM593828	infection: Mock infection	control
+GSM593838	MPX 0 Pool Mf 7.29	GSM593838	infection: Monkeypox Virus	MP
+GSM593839	Mock 1hr in vitro monocyte pox timecourse	GSM593839	infection: Mock infection	control
+GSM593842	Mock 0 Pool Mf 7.29	GSM593842	infection: Mock infection	control
+GSM593843	Mock 12 hr Mf 7.29	GSM593843	infection: Mock infection	control
+GSM593855	0hr 3a in vitro monocyte pox timecourse	GSM593855	infection: Mock infection	control
+GSM593859	Mock 24 hr Mf 7.29	GSM593859	infection: Mock infection	control
+GSM593865	MPX 2 hr Mf 7.29	GSM593865	infection: Monkeypox Virus	MP
+GSM593869	Mock 12 hr FibroS100	GSM593869	infection: Mock infection	control
+GSM593870	Mock 0 hr Mf 7.29	GSM593870	infection: Mock infection	control
+GSM593872	MPX 24hr in vitro monocyte pox timecourse	GSM593872	infection: Monkeypox Virus	MP
+GSM593878	MPX 4 hr FibroS100	GSM593878	infection: Monkeypox Virus	MP
+GSM593882	Mock 4 hr Mf 7.29	GSM593882	infection: Mock infection	control
+GSM593887	Mock 0.5hr in vitro monocyte pox timecourse	GSM593887	infection: Mock infection	control
+GSM593891	MPX 48hr in vitro monocyte pox timecourse	GSM593891	infection: Monkeypox Virus	MP
+GSM593896	MPX 1 hr FibroS100	GSM593896	infection: Monkeypox Virus	MP
+GSM593897	MPX 1.5hr in vitro monocyte pox timecourse	GSM593897	infection: Monkeypox Virus	MP
+GSM593902	0hr 2a-1 in vitro monocyte pox timecourse	GSM593902	infection: Mock infection	control
+GSM593905	MPX 8 hr FibroS100	GSM593905	infection: Monkeypox Virus	MP
+GSM593907	Mock 24 hr FibroS100	GSM593907	infection: Mock infection	control
+GSM593910	MPX 2 hr FibroS100	GSM593910	infection: Monkeypox Virus	MP
+GSM593915	Mock 12hr in vitro monocyte pox timecourse	GSM593915	infection: Mock infection	control
+GSM593921	MPX 0 hr FibroS100	GSM593921	infection: Monkeypox Virus	MP
+GSM593933	Mock 24hr in vitro monocyte pox timecourse	GSM593933	infection: Mock infection	control
+GSM593940	MPX 0 hr Mf 7.29	GSM593940	infection: Monkeypox Virus	MP
+GSM593942	Mock 2 hr Mf 7.29	GSM593942	infection: Mock infection	control
+GSM593947	MPX 0.5hr in vitro monocyte pox timecourse	GSM593947	infection: Monkeypox Virus	MP
+GSM593949	Mock 48hr in vitro monocyte pox timecourse	GSM593949	infection: Mock infection	control
+GSM593950	Mock 4 hr FibroS100	GSM593950	infection: Mock infection	control
+GSM593951	MPX 0 Pool FibroS100	GSM593951	infection: Monkeypox Virus	MP
+GSM593952	Mock 0 hr FibroS100	GSM593952	infection: Mock infection	control
+GSM593955	MPX 24 hr FibroS100	GSM593955	infection: Monkeypox Virus	MP
+GSM593956	Mock 1 hr FibroS100	GSM593956	infection: Mock infection	control
+GSM593957	MPX 1hr in vitro monocyte pox timecourse	GSM593957	infection: Monkeypox Virus	MP
+GSM593958	MPX 12 hr Mf 7.29	GSM593958	infection: Monkeypox Virus	MP
+GSM593970	Mock 9hr in vitro monocyte pox timecourse	GSM593970	infection: Mock infection	control
+GSM593972	Mock 0 Pool FibroS100	GSM593972	infection: Mock infection	control
+GSM593978	MPX 24 hr Mf 7.29	GSM593978	infection: Monkeypox Virus	MP
+GSM593984	Mock 2 hr FibroS100	GSM593984	infection: Mock infection	control
+GSM593985	Mock 8 hr FibroS100	GSM593985	infection: Mock infection	control
+GSM593988	0hr 3b in vitro monocyte pox timecourse	GSM593988	infection: Mock infection	control
+GSM593989	MPX 9hr in vitro monocyte pox timecourse	GSM593989	infection: Monkeypox Virus	MP
+GSM593993	0hr 2a-2 in vitro monocyte pox timecourse	GSM593993	infection: Mock infection	control
+GSM593996	MPX 4hr in vitro monocyte pox timecourse	GSM593996	infection: Monkeypox Virus	MP
+GSM593998	0hr 1a in vitro monocyte pox timecourse	GSM593998	infection: Mock infection	control
